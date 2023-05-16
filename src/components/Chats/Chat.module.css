@@ -1,0 +1,11 @@
+.chatName{
+    background-color: red;
+    border: 1px solid #808080;
+    background-color: #2A3942;
+    width: 90%;
+    height: 50px;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+}   

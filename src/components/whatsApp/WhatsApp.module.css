@@ -1,0 +1,31 @@
+.whatsApp__container {
+    display: flex;
+    color: #fff;
+    background-color: #111B21;
+}
+
+.whatsApp__users {
+    width: 20%;
+    color: black;
+}
+
+.chats{
+    padding: 5px;
+}
+
+.createChat{
+    display: flex;
+    align-items: center;
+    margin-top: 3px;
+}
+
+.inputNumber{
+    height: 44px;
+    width: 80%;
+    font-size: 20px;
+}
+
+.createChatButton{
+    height: 50px;
+    width: 15%;
+}
